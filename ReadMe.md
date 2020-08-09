@@ -2,12 +2,14 @@
 
 ![](http://williamcalvin.com/img/bk9.jpg)
 
-This repository contains code written based on the ideas in Williams
-Calvin's 1996 book, The Cerebral Code [[1](#ref_1)].  (The author has
-made available the full text of the book [[2](#ref_2)]).  In that book
-the author describes brains as Darwin Machines: an organ that evolved
-to perform Darwinian tuning up of thoughts in what we humans
-experience as real time.
+This repository contains a 
+[one-pager](paperables/calvins_darwin_machine_theory_one_pager.pdf) 
+Reconstrue created by taking images from William Calvin's 1996 book, The
+Cerebral Code [[1](#ref_1)]. The goal was to have a physical object to leave with
+people in order to motivate them to consider his theory.
+
+Calvin has made available the full text of the book [[2](#ref_2)] on
+his personal website.
 
 ## References
 
